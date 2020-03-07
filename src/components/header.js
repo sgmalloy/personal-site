@@ -16,6 +16,7 @@ const Header = ({ siteTitle }) => (
         padding: `1.45rem 1.0875rem`,
       }}
     >
+      <img src="../images/gatsby-icon.png"></img>
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
